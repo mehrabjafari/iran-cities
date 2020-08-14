@@ -1,5 +1,5 @@
 # iran-cities
-The most accurate database of city, county, village and province names of Iran.
+Iran-cities is the most accurate database of city, county, province and villages of Iran. Based on official released data.
 
 # بانک اطلاعات(دیتابیس) جامع و کامل اسامی استانها، شهرستانها، شهرها و روستاهای ایران
 
